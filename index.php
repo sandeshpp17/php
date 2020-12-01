@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-echo "testing for s2i!";
+echo "for s2i!";
 ?>
 
 </body>
