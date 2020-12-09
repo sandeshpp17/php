@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>php for s2i </h1>
 
 <?php
 echo "for s2i!";
